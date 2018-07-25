@@ -14,5 +14,6 @@ let james  = 'Literal String', jamesProperty = {
 let ellis = 'Ellis Otoo';
 
 ellisObject  = {
-    
+    name: 'The Best',
+    programingType : 'Js'
 }
