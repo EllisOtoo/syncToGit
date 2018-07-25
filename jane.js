@@ -3,3 +3,9 @@ let testFunc = (
         console.log('Hello Ms World')
     }
 )()
+
+
+let james  = 'Literal String', jamesProperty = {
+    cars : ['Ferrari', 'Bently'],
+    weapons: ['AK47']
+};
