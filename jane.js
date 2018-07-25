@@ -9,3 +9,6 @@ let james  = 'Literal String', jamesProperty = {
     cars : ['Ferrari', 'Bently'],
     weapons: ['AK47']
 };
+
+
+let ellis = 'Ellis Otoo'
