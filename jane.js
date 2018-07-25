@@ -1,1 +1,5 @@
-document.write('Hello World')
+let testFunc = (
+    function() {
+        console.log('Hello Ms World')
+    }
+)()
