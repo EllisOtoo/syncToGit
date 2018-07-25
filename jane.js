@@ -11,4 +11,8 @@ let james  = 'Literal String', jamesProperty = {
 };
 
 
-let ellis = 'Ellis Otoo'
+let ellis = 'Ellis Otoo';
+
+ellisObject  = {
+    
+}
